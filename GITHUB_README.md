@@ -2,7 +2,9 @@
 
 Transform English into Chinese-style English - Learn how Chinese people really think and speak!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/chinglish-generator)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/waterpoplarabc-coder/chinglish-generator)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/waterpoplarabc-coder/chinglish-generator)
 
 ## 🌟 Features
 
